@@ -3,7 +3,6 @@ version: 0.1
 image: codefresh/npm-publish:latest
 description: Publishes a nodejs package to NPM registry
 categories:
-  - Featured
   - Deployment
 sources:
   - 'https://github.com/codefresh-contrib/npm-publish'
